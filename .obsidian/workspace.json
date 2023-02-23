@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "c0108c03bd636a24",
+    "type": "split",
+    "children": [
+      {
+        "id": "643895c65946184d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a2af55209035283",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b3568260506baa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b3d61b4b355614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc713fe54a798271",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "10e3c74fe2c27d34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4495b3aba3ef09b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "5fe04ee90e730a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2fc156c8af8f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be64d4cd322c53d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cf0b560557311b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60d93ae4d80d70b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "5c3d55bff9b5165c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": true,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "dc713fe54a798271",
+  "lastOpenFiles": [
+    "配置/NewFile.txt",
+    "配置/模块配制/组织管理(OM)/增强性配制/未命名.md",
+    "配置/模块配制/组织管理(OM)/基础性配制",
+    "配置/模块配制/组织管理(OM)/增强性配制",
+    "配置/模块配制/组织管理(OM)",
+    "logo.png",
+    "配置/通用配制/基础性配制/系统表(T77S0).md",
+    "开发/示例程序/人员入职批量导入演示程序.md",
+    "开发/示例程序/NewFile.html",
+    "开发/示例程序/NewFile.yml",
+    "开发/示例程序/NewFile.plist",
+    "开发/示例程序/NewFile.ini",
+    "开发/示例程序/NewFile.txt",
+    "开发/示例程序/NewFile.xml",
+    "开发/示例程序/NewFile.json",
+    "开发/示例程序/附件/未命名.md",
+    "开发/示例程序/附件/doge.gif",
+    "附件/doge.gif.md",
+    "开发/示例程序/zdemo_batch_hire_employee.prog.abap.md",
+    "开发/未命名.md",
+    "系统配置/通用配制/基础性配制/未命名.canvas"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#8db18c",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Source Han Sans,FOT-TsukuBRdGothic Std,Hack Nerd Font",
+  "textFontFamily": "Source Han Sans,FOT-TsukuBRdGothic Std,Hack Nerd Font",
+  "monospaceFontFamily": "Menlo,Monaco,Courier New,Hack Nerd Font",
+  "enabledCssSnippets": [
+    "段落首行缩进"
+  ],
+  "theme": "obsidian"
+}

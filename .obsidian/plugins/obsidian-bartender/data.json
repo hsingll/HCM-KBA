@@ -1,0 +1,17 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "配置/模块配制": [
+      "配置/模块配制/组织管理(OM)",
+      "配置/模块配制/人事管理(PA)",
+      "配置/模块配制/考勤管理(PT)",
+      "配置/模块配制/薪资管理(PY)",
+      "配置/模块配制/招聘管理(PB)"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

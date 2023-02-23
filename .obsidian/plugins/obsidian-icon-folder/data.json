@@ -1,0 +1,229 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#8db18c",
+    "recentlyUsedIcons": [
+      "CuFiletypeAbap",
+      "CiHire",
+      "FasCodeMerge",
+      "RiMoneyDollarBoxFill",
+      "SiPaytm"
+    ],
+    "rules": [
+      {
+        "rule": "^组织管理\\(OM\\)$",
+        "icon": "CuOrganization",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "^人事管理\\(PA\\)$",
+        "icon": "FasUserGroup",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "^考勤管理\\(PT\\)$",
+        "icon": "RiTimeFill",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "^薪资管理\\(PY\\)$",
+        "icon": "RiMoneyDollarBoxFill",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "^招聘管理\\(PB\\)$",
+        "icon": "CuHire",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "基础性配制",
+        "icon": "RiSettings6Fill",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "增强性配制",
+        "icon": "SiDevdotto",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "附件",
+        "icon": "RiAttachment2",
+        "for": "folders",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".abap$",
+        "icon": "CiFiletype-abap",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".css$",
+        "icon": "TiFiletype-css",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".csv$",
+        "icon": "TiFiletype-csv",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".doc$",
+        "icon": "TiFiletype-doc",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".docx$",
+        "icon": "TiFiletype-docx",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".gif$",
+        "icon": "TiFiletype-gif",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".html$",
+        "icon": "TiFiletype-html",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".ini$",
+        "icon": "CiFiletype-ini",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".jpg$",
+        "icon": "TiFiletype-jpg",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".jpeg$",
+        "icon": "TiFiletype-jpeg",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".js$",
+        "icon": "TiFiletype-js",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".json$",
+        "icon": "TiFiletype-json",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".md$",
+        "icon": "SiMarkdown",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".pdf$",
+        "icon": "TiFiletype-pdf",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".plist$",
+        "icon": "CiFiletype-plist",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".png$",
+        "icon": "TiFiletype-png",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".ppt$",
+        "icon": "TiFiletype-ppt",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".pptx$",
+        "icon": "TiFiletype-pptx",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".py$",
+        "icon": "TiFiletype-py",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".sh$",
+        "icon": "TiFiletype-sh",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".txt$",
+        "icon": "TiFiletype-txt",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".xls$",
+        "icon": "TiFiletype-xls",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".xlsx$",
+        "icon": "TiFiletype-xlsx",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": ".xml$",
+        "icon": "TiFiletype-xml",
+        "for": "files",
+        "color": "#8db18c"
+      },
+      {
+        "rule": "(.yaml|.yml)$",
+        "icon": "TiFiletype-yml",
+        "for": "files",
+        "color": "#8db18c"
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "recentlyUsedIconsSize": 5
+  },
+  "开发": "FabDev",
+  "开发/示例代码片段": "FasCode",
+  "开发/示例程序": "RiGitRepositoryCommitsFill",
+  "配置": "TiBook-half",
+  "配置/模块配制": "SiMicrosoftacademic",
+  "配置/通用配制": "SiMicrosoftacademic"
+}

@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "./附件",
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "tabSize": 2,
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "vimMode": false
+}
